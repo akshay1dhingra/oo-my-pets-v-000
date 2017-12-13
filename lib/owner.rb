@@ -60,8 +60,8 @@ class Owner
       animals.each do |animal|
         animal = "nervous"
       end
-      animals.clear
     end
+    animals.clear
   end
 
 end
